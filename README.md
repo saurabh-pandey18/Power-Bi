@@ -1,2 +1,12 @@
-# Power-Bi
-Interactive Power Bi Dashboard Using Netflix Data Set.
+# Netflix Content Rating Analysis Interactive Dashboard
+
+This Netflix content analysis dashboard provides an in-depth view of the platform’s movie and TV show distribution, ratings, votes, and geographical trends. The total number of titles available is 5,501, out of which 2,634 are movies and 2,867 are TV shows. The average rating across all titles is 6.2, with a total of 13.1 million votes recorded. Interestingly, TV shows have a higher average rating of 7.2, while movies have a lower 6.1 rating, indicating that audiences tend to rate TV series more favorably.
+
+The bar chart in the center displays the average rating and number of titles by genre, showing that genres such as Drama, Thriller, and Crime receive higher ratings, whereas Comedy and Horror have relatively lower average ratings. This suggests that audiences appreciate more engaging and intense storytelling over lighthearted content. The left-side horizontal bar chart categorizes the number of titles by rating groups, revealing that the majority of content falls within the 6-7 rating range, with fewer titles rated below 5 or above 8.
+
+The bottom-left table presents a country-wise breakdown of Netflix content, showing that the USA has the highest number of titles, followed by India, the UK, and Canada. However, some European and Asian countries produce high-rated content despite fewer titles, suggesting a quality-over-quantity trend. The map visualization at the bottom further emphasizes Netflix’s global reach, with high content density in North America, Europe, and parts of Asia.
+
+On the right side, the highlighted movie and TV show section displays highly-rated and popular titles, including Friends, Lucifer, The Kominsky Method, and Avatar: The Last Airbender. These titles receive high audience engagement and votes, proving that well-loved series and animated content have strong retention value.
+
+In conclusion, Netflix’s content strategy appears to favor high-volume production, with a focus on Drama and Thriller genres. While movies dominate in quantity, TV shows tend to have higher audience approval ratings. A key recommendation for Netflix would be to expand high-performing genres, highlight lesser-known but well-rated international content, and leverage audience favorites for spin-offs or exclusive content releases. This dashboard effectively presents key trends, helping understand content distribution, audience preferences, and regional impact.
+
